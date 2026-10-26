@@ -1,0 +1,136 @@
+{
+  "brand": "ApplianceSource",
+  "titleSuffix": "Appliances & OEM sourcing knowledge",
+  "description": "Explore appliance product types, electrical specifications, OEM sourcing questions and supplier verification checklists.",
+  "eyebrow": "Home & commercial appliances",
+  "hero": "Understand the appliance behind the label.",
+  "intro": "From electrical requirements to OEM documentation, explore practical comparisons and questions for manufacturers before your next sourcing decision.",
+  "heroCardTitle": "Compatibility is a specification.",
+  "heroCardCopy": "Voltage, frequency, plug, energy and safety requirements differ by destination market.",
+  "topics": [
+    {
+      "title": "Market compatibility",
+      "summary": "Compare voltage/frequency, plugs, language and destination-market requirements."
+    },
+    {
+      "title": "OEM vs ODM",
+      "summary": "Know who owns the design, tooling, certification evidence and brand assets."
+    },
+    {
+      "title": "Quality and after-sales",
+      "summary": "Define spare parts, sampling, labeling and warranty responsibilities early."
+    }
+  ],
+  "products": [
+    {
+      "name": "Electric kettle",
+      "category": "Kitchen",
+      "description": "Countertop appliance for heating water.",
+      "spec": "Voltage/frequency, power, capacity, cut-off protection, materials.",
+      "tags": [
+        "Heating",
+        "Kitchen"
+      ],
+      "caution": "Electrical conformity depends on destination market and model."
+    },
+    {
+      "name": "Air fryer",
+      "category": "Kitchen",
+      "description": "Countertop cooking appliance using circulating heated air.",
+      "spec": "Rated power, capacity, thermal controls, accessories, testing.",
+      "tags": [
+        "Cooking",
+        "OEM"
+      ],
+      "caution": "Ask for model-specific safety and food-contact documentation."
+    },
+    {
+      "name": "Cordless vacuum cleaner",
+      "category": "Cleaning",
+      "description": "Rechargeable household cleaning device.",
+      "spec": "Battery chemistry, charging specifications, service parts, runtime test.",
+      "tags": [
+        "Battery",
+        "Cleaning"
+      ],
+      "caution": "Battery shipping regulations and recycling rules may apply."
+    },
+    {
+      "name": "Portable fan",
+      "category": "Comfort",
+      "description": "Compact air-moving appliance for personal or room use.",
+      "spec": "Rated voltage, fan performance method, noise data, safety guards.",
+      "tags": [
+        "Fan",
+        "Cooling"
+      ],
+      "caution": "Verify claims against a stated test method."
+    },
+    {
+      "name": "Induction cooktop",
+      "category": "Kitchen",
+      "description": "Electric cooking surface using magnetic induction.",
+      "spec": "Power rating, supply connection, cookware compatibility, controls.",
+      "tags": [
+        "Induction",
+        "Cooking"
+      ],
+      "caution": "Check electrical installation needs and local standards."
+    },
+    {
+      "name": "Steam iron",
+      "category": "Cleaning",
+      "description": "Handheld appliance for pressing and removing garment wrinkles.",
+      "spec": "Voltage, power, water system, thermal protection, cord specification.",
+      "tags": [
+        "Laundry",
+        "Heating"
+      ],
+      "caution": "Model identification and test reports must match the supplied item."
+    }
+  ],
+  "guides": [
+    {
+      "title": "OEM appliance RFQ checklist",
+      "summary": "Move beyond generic photos toward an auditable product specification.",
+      "checks": [
+        "State model, quantity, packaging and destination market.",
+        "Request exact test report model and certificate scope.",
+        "Clarify tooling ownership, warranty and spare-parts support."
+      ]
+    },
+    {
+      "title": "Voltage and plug requirements",
+      "summary": "A plug adapter alone does not make every appliance suitable.",
+      "checks": [
+        "Check both voltage and frequency ratings.",
+        "Identify the required plug and protective earthing design.",
+        "Confirm local conformity requirements before sale."
+      ]
+    },
+    {
+      "title": "Compare sampling and inspection",
+      "summary": "Agree on tolerances and acceptance rules before paying for bulk production.",
+      "checks": [
+        "Define sample sign-off and any golden sample.",
+        "List safety-critical inspection and functional tests.",
+        "Specify third-party inspection and rejection rules in the contract."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "Can every appliance work worldwide?",
+      "answer": "No. Voltage, frequency, safety certification, plug and labeling requirements differ by market."
+    },
+    {
+      "question": "Can I place an OEM order here?",
+      "answer": "Not yet. This is an independent reference website prototype."
+    },
+    {
+      "question": "Does PENG certify factories?",
+      "answer": "No. Any future verification activity must describe who checked what, when and by which method."
+    }
+  ],
+  "disclosure": "Product information is educational and does not establish electrical safety certification, importer obligations or approval to sell."
+}
