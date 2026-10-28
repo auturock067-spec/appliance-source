@@ -27,3 +27,10 @@ The generated `public/` files are committed in this standalone repository. No ru
 - Enable **Preview Builds** for feature branches; preview command: `npx wrangler preview`.
 - Inspect the Worker Preview created from `feat/v0-1-site-foundation`. Only after acceptance, merge the PR to `main` for automatic production deployment.
 - No API secrets needed in V0.1. Do not remove noindex or enable personal data collection without review.
+
+## Preview acceptance workflow
+- Worker Previews requires Wrangler 4.135.0 or newer and the committed `previews` configuration.
+- Keep Production branch `main`. Preview Builds must use an empty build command and `npx wrangler preview`; do not check out another branch in the build command.
+- After a feature-branch push, compare the Cloudflare build commit with the Draft PR head and open the exact HTTPS link shown by Cloudflare. Preview names may receive a suffix; do not infer the URL.
+- Verify successful CI, HTML/CSS/JS loading, search/filter and zero results, 320/390/768/1440px layouts, disclaimers, `noindex,nofollow` and `robots.txt` before accepting the preview.
+- Production publication and removal of noindex require owner approval.
