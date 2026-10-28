@@ -132,5 +132,142 @@
       "answer": "No. Any future verification activity must describe who checked what, when and by which method."
     }
   ],
-  "disclosure": "Product information is educational and does not establish electrical safety certification, importer obligations or approval to sell."
+  "disclosure": "Product information is educational and does not establish electrical safety certification, importer obligations or approval to sell.",
+  "locales": {
+    "zh-CN": {
+      "titleSuffix": "家电与 OEM 采购知识",
+      "description": "了解家电产品类型、电气规格、OEM 采购问题及供应商核查清单。",
+      "eyebrow": "家用与商用电器",
+      "hero": "看懂标签背后的电器。",
+      "intro": "从电气要求到 OEM 文件，在采购决策前了解实用比较方法，以及应向制造商提出的问题。",
+      "heroCardTitle": "兼容性也是关键规格。",
+      "heroCardCopy": "不同目标市场对电压、频率、插头、能效及安全的要求各不相同。",
+      "topics": [
+        {
+          "title": "市场兼容性",
+          "summary": "比较电压与频率、插头、语言及目标市场的要求。"
+        },
+        {
+          "title": "OEM 与 ODM",
+          "summary": "明确设计、模具、认证证明及品牌资产的所有权。"
+        },
+        {
+          "title": "质量与售后",
+          "summary": "尽早明确备件、抽样、标签及质保责任。"
+        }
+      ],
+      "products": [
+        {
+          "name": "电热水壶",
+          "category": "厨房电器",
+          "description": "用于加热水的台式电器。",
+          "spec": "电压与频率、功率、容量、断电保护、材料。",
+          "tags": [
+            "加热",
+            "厨房电器"
+          ],
+          "caution": "电气合规要求取决于目标市场及具体型号。"
+        },
+        {
+          "name": "空气炸锅",
+          "category": "厨房电器",
+          "description": "通过循环热空气烹饪食物的台式电器。",
+          "spec": "额定功率、容量、温控、配件、试验要求。",
+          "tags": [
+            "烹饪",
+            "OEM"
+          ],
+          "caution": "索取对应型号的安全及食品接触材料文件。"
+        },
+        {
+          "name": "无线吸尘器",
+          "category": "清洁电器",
+          "description": "可充电的家用清洁设备。",
+          "spec": "电池化学体系、充电规格、维修备件、续航测试。",
+          "tags": [
+            "电池",
+            "清洁电器"
+          ],
+          "caution": "可能涉及电池运输及回收规定。"
+        },
+        {
+          "name": "便携风扇",
+          "category": "环境舒适电器",
+          "description": "用于个人或房间通风的小型送风电器。",
+          "spec": "额定电压、风量性能测试方法、噪声数据、防护罩。",
+          "tags": [
+            "风扇",
+            "送风降温"
+          ],
+          "caution": "依据明确的试验方法核实性能声明。"
+        },
+        {
+          "name": "电磁炉",
+          "category": "厨房电器",
+          "description": "利用电磁感应进行加热的烹饪设备。",
+          "spec": "额定功率、供电连接、锅具兼容性、控制功能。",
+          "tags": [
+            "电磁感应",
+            "烹饪"
+          ],
+          "caution": "核查电气安装条件及当地标准。"
+        },
+        {
+          "name": "蒸汽熨斗",
+          "category": "清洁电器",
+          "description": "用于熨烫及去除衣物褶皱的手持电器。",
+          "spec": "电压、功率、水路系统、热保护、电源线规格。",
+          "tags": [
+            "衣物护理",
+            "加热"
+          ],
+          "caution": "型号标识及检测报告必须与实际供货产品一致。"
+        }
+      ],
+      "guides": [
+        {
+          "title": "OEM 家电询价清单",
+          "summary": "不只依靠通用照片，还要形成可核查的产品规格。",
+          "checks": [
+            "写明型号、数量、包装及目标市场。",
+            "索取准确对应型号的检测报告及证书适用范围。",
+            "明确模具所有权、质保及备件支持。"
+          ]
+        },
+        {
+          "title": "电压与插头要求",
+          "summary": "仅使用插头转换器，不能保证所有电器都适用。",
+          "checks": [
+            "同时核查额定电压及频率。",
+            "明确所需插头及保护接地设计。",
+            "销售前确认当地合规要求。"
+          ]
+        },
+        {
+          "title": "比较抽样与检验方案",
+          "summary": "支付批量生产款项之前，先约定公差及验收规则。",
+          "checks": [
+            "约定样品签认及封样。",
+            "列明安全关键检验项目及功能测试。",
+            "在合同中明确第三方检验及拒收规则。"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "所有电器都能在全球使用吗？",
+          "answer": "不能。不同市场的电压、频率、安全认证、插头及标签要求各不相同。"
+        },
+        {
+          "question": "可以在这里下 OEM 订单吗？",
+          "answer": "暂时不可以。本站是独立的参考知识网站原型。"
+        },
+        {
+          "question": "PENG 为工厂提供认证吗？",
+          "answer": "不提供。未来如开展核查，必须说明由谁、在何时、采用何种方法核查了哪些内容。"
+        }
+      ],
+      "disclosure": "产品信息仅供学习，不代表已取得电气安全认证、已履行进口商义务或已获准销售。"
+    }
+  }
 }
