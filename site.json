@@ -103,7 +103,8 @@
         "State model, quantity, packaging and destination market.",
         "Request exact test report model and certificate scope.",
         "Clarify tooling ownership, warranty and spare-parts support."
-      ]
+      ],
+      "image": "./images/air-fryer.svg"
     },
     {
       "title": "Voltage and plug requirements",
@@ -112,7 +113,8 @@
         "Check both voltage and frequency ratings.",
         "Identify the required plug and protective earthing design.",
         "Confirm local conformity requirements before sale."
-      ]
+      ],
+      "image": "./images/induction-cooktop.svg"
     },
     {
       "title": "Compare sampling and inspection",
@@ -121,7 +123,8 @@
         "Define sample sign-off and any golden sample.",
         "List safety-critical inspection and functional tests.",
         "Specify third-party inspection and rejection rules in the contract."
-      ]
+      ],
+      "image": "./images/cordless-vacuum-cleaner.svg"
     }
   ],
   "faq": [
@@ -275,5 +278,6 @@
       ],
       "disclosure": "产品信息仅供学习，不代表已取得电气安全认证、已履行进口商义务或已获准销售。"
     }
-  }
+  },
+  "heroImage": "./images/electric-kettle.svg"
 }
