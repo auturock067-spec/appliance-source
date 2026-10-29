@@ -50,7 +50,7 @@
   "Explore appliance product types, electrical specifications, OEM sourcing questions and supplier verification checklists.": "了解家电产品类型、电气规格、OEM 采购问题及供应商核查清单。",
   "Home & commercial appliances": "家用与商用电器",
   "Understand the appliance behind the label.": "看懂标签背后的电器。",
-  "From electrical requirements to OEM documentation, explore practical comparisons and questions for manufacturers before your next sourcing decision.": "从电气要求到 OEM 文件，在采购决策前了解实用比较方法，以及应向制造商提出的问题。",
+  "For overseas importers and private-label OEM/ODM buyers: compare model-specific electrical needs, destination-market documents and factory questions before requesting quotes. No orders or certifications are provided.": "面向海外进口商与自有品牌 OEM/ODM 采购者：询价前先核查具体型号的电气要求、目标市场文件和制造商问题。本站不提供下单或认证服务。",
   "Compatibility is a specification.": "兼容性也是关键规格。",
   "Voltage, frequency, plug, energy and safety requirements differ by destination market.": "不同目标市场对电压、频率、插头、能效及安全的要求各不相同。",
   "Market compatibility": "市场兼容性",
