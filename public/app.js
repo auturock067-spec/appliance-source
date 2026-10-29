@@ -1,6 +1,7 @@
 // English HTML remains the no-JavaScript fallback. Chinese strings are bundled locally.
 (()=>{
   const zh={
+  "Original illustrations for identification only; not actual product photos or supplier offers.": "原创产品识别示意图，并非实物照片或供应商报价。",
   "Explore": "行业概览",
   "Products": "产品",
   "Guides": "采购指南",
@@ -139,8 +140,8 @@
     if(key&&zh[key])texts.push({node,original,chinese:original.replace(key,zh[key])});
   }
   const attributes=[];
-  for(const el of document.querySelectorAll('[aria-label],[placeholder],meta[name="description"]')){
-    for(const attr of ['aria-label','placeholder','content']){
+  for(const el of document.querySelectorAll('[aria-label],[placeholder],[alt],[title],meta[name="description"]')){
+    for(const attr of ['aria-label','placeholder','alt','title','content']){
       const original=el.getAttribute(attr);
       if(original&&zh[original])attributes.push({el,attr,original,chinese:zh[original]});
     }
