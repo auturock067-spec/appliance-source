@@ -79,7 +79,7 @@
     },
     {
       "name": "Steam iron",
-      "category": "Cleaning",
+      "category": "Garment Care",
       "description": "Handheld appliance for pressing and removing garment wrinkles.",
       "spec": "Voltage, power, water system, thermal protection, cord specification.",
       "tags": [
@@ -214,7 +214,7 @@
         },
         {
           "name": "蒸汽熨斗",
-          "category": "清洁电器",
+          "category": "衣物护理",
           "description": "用于熨烫及去除衣物褶皱的手持电器。",
           "spec": "电压、功率、水路系统、热保护、电源线规格。",
           "tags": [
