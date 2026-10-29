@@ -18,6 +18,7 @@
   "Product reference library": "产品参考库",
   "Compare before you source": "先比较，再采购",
   "Illustrative product types, not live inventory, prices or certified supplier offers.": "以下为示例产品类型，不代表实时库存、价格或经认证供应商的报价。",
+  "Garment Care": "衣物护理",
   "All products": "全部产品",
   "Specification focus:": "规格要点：",
   "No matching product reference. Try a different keyword or category.": "未找到匹配的产品，请尝试其他关键词或分类。",
