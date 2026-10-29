@@ -31,7 +31,8 @@
         "Heating",
         "Kitchen"
       ],
-      "caution": "Electrical conformity depends on destination market and model."
+      "caution": "Electrical conformity depends on destination market and model.",
+      "image": "./images/electric-kettle.svg"
     },
     {
       "name": "Air fryer",
@@ -42,7 +43,8 @@
         "Cooking",
         "OEM"
       ],
-      "caution": "Ask for model-specific safety and food-contact documentation."
+      "caution": "Ask for model-specific safety and food-contact documentation.",
+      "image": "./images/air-fryer.svg"
     },
     {
       "name": "Cordless vacuum cleaner",
@@ -53,7 +55,8 @@
         "Battery",
         "Cleaning"
       ],
-      "caution": "Battery shipping regulations and recycling rules may apply."
+      "caution": "Battery shipping regulations and recycling rules may apply.",
+      "image": "./images/cordless-vacuum-cleaner.svg"
     },
     {
       "name": "Portable fan",
@@ -64,7 +67,8 @@
         "Fan",
         "Cooling"
       ],
-      "caution": "Verify claims against a stated test method."
+      "caution": "Verify claims against a stated test method.",
+      "image": "./images/portable-fan.svg"
     },
     {
       "name": "Induction cooktop",
@@ -75,7 +79,8 @@
         "Induction",
         "Cooking"
       ],
-      "caution": "Check electrical installation needs and local standards."
+      "caution": "Check electrical installation needs and local standards.",
+      "image": "./images/induction-cooktop.svg"
     },
     {
       "name": "Steam iron",
@@ -86,7 +91,8 @@
         "Laundry",
         "Heating"
       ],
-      "caution": "Model identification and test reports must match the supplied item."
+      "caution": "Model identification and test reports must match the supplied item.",
+      "image": "./images/steam-iron.svg"
     }
   ],
   "guides": [
